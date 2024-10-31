@@ -1,0 +1,3 @@
+- This project uses the GitHub API to fetch data on users in Boston with over 100 followers. I utilized an access token for authentication to scrape user and repository details in Google Colab, ultimately saving the results to CSV files.
+- One surprising finding was that a significant number of users are affiliated with major institutions, like Northeastern University and Harvard, highlighting the tech talent concentrated in Boston.
+- Based on the analysis, developers should consider collaborating with local universities and tech communities to tap into a rich talent pool and foster innovation.
